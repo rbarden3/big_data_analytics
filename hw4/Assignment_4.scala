@@ -56,5 +56,5 @@ val B0 = pred_avg - (B1*act_avg)
 
 println()
 println(s"MSE: ${mse}")
-println(s"B0: ${b0}")
-println(s"B1: ${b1}")
+println(s"B1: ${B1}")
+println(s"B0: ${B0}")
